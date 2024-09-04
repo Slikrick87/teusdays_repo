@@ -1,3 +1,6 @@
-# teusdays_repo
-Put ya John Hancock below the line:
---------------------------------------------------
+# tuesday_repo
+
+Write your name below the line:
+--------------------------------------------------------
+Ricky Thomas
+Don Hansen
